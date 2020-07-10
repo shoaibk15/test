@@ -1,0 +1,181 @@
+/*=======================================
+Template Design By MarkUps.
+Author URI : http://www.markups.io/
+========================================*/
+a {
+  color: #088093;
+}
+
+.navbar-fixed nav {
+  background-color: #088093;
+}
+
+
+.side-nav li:hover{
+  background-color: #088093;  
+}
+.btn ,.btn-large{
+  background-color: #088093;
+}
+.btn:hover, .btn-large:hover {
+  background-color: #088093;
+}
+.home-title span{
+  color: #088093;
+}
+.about-inner-right>h3{
+  color: #088093;
+}
+.personal-information>h3{
+  color: #088093;
+}
+.title{
+  color: #088093;
+}
+
+.card-subtitle {
+  color: #088093;
+}
+.portfolio-top{
+  background-color: #088093;
+}
+.filter {
+  color: #088093;
+}
+.filter:focus{
+  background-color: #088093;
+}
+#portfolio-list .mix:hover > a::before {
+  background-color: #088093;
+}
+.counter{
+  color: #088093;
+}
+
+.pro-bar-container.color-wisteria {
+  border-color: #088093;
+}
+
+.pro-bar.color-amethyst {
+  background-color: #088093;
+}
+.call-to-about i{
+  color: #088093;
+}
+
+.blog-post .card-action a{
+  color: #088093;
+}
+
+.post-comment:hover{
+  color: #088093 !important;
+}
+
+.readmore-btn:hover{
+  background-color: #088093;
+}
+#experience{
+  background-color: #088093;
+}
+
+.card-title i {
+  color: #088093;
+}
+.customNavigation i{
+  color: #088093;
+}
+#testimonial{
+  background-color: #088093;  
+}
+.testimonial-content h3 {
+  color: #088093;
+}
+.footer-top{
+  background-color:#088093; 
+}
+input[type="text"]:focus:not([readonly]) + label,
+input[type="password"]:focus:not([readonly]) + label,
+input[type="email"]:focus:not([readonly]) + label,
+input[type="url"]:focus:not([readonly]) + label,
+input[type="time"]:focus:not([readonly]) + label,
+input[type="date"]:focus:not([readonly]) + label,
+input[type="datetime-local"]:focus:not([readonly]) + label,
+input[type="tel"]:focus:not([readonly]) + label,
+input[type="number"]:focus:not([readonly]) + label,
+input[type="search"]:focus:not([readonly]) + label,
+textarea.materialize-textarea:focus:not([readonly]) + label {
+  color: #088093;
+}
+input[type="text"]:focus:not([readonly]),
+input[type="password"]:focus:not([readonly]),
+input[type="email"]:focus:not([readonly]),
+input[type="url"]:focus:not([readonly]),
+input[type="time"]:focus:not([readonly]),
+input[type="date"]:focus:not([readonly]),
+input[type="datetime-local"]:focus:not([readonly]),
+input[type="tel"]:focus:not([readonly]),
+input[type="number"]:focus:not([readonly]),
+input[type="search"]:focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]) {
+  border-bottom: 1px solid #088093;
+  box-shadow: 0 1px 0 0 #088093;
+}
+.submit-btn{
+  color: #088093;  
+}
+.submit-btn:hover,
+.submit-btn:focus{
+  background-color: #088093;
+}
+.overlay-header{
+  background-color: #088093;
+}
+.blog-content blockquote {
+  border-left: 5px solid #088093;
+}
+.share-area h4 i,
+.tag-area h4 i {
+  color: #088093;
+}
+.share-area a:hover,
+.share-area a:focus{
+  color: #088093;
+}
+.author-comments {
+  background-color: #088093 !important;
+}
+.reply-btn:hover{
+  background-color: #088093; 
+}
+.pagination li.active{
+  background-color: #088093;
+}
+.card .card-action a {
+  color: #088093;  
+}
+.tagcloud a:hover,
+.tagcloud a:focus{
+  color: #fff;
+  background-color: #088093;
+  border-color: #088093;
+}
+.prev-post:hover,
+.prev-post:focus,
+.next-post:hover,
+.next-post:focus{
+  background-color: #088093;
+}
+.submit-btn{
+  color: #088093;  
+}
+.side-nav li:hover,
+.side-nav li.active {
+  background-color: #088093; 
+}
+.progress .indeterminate {
+  background-color: #088093;
+}
+/*=======================================
+Template Design By MarkUps.
+Author URI : http://www.markups.io/
+========================================*/
